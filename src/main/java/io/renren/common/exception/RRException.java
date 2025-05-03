@@ -1,17 +1,10 @@
-/**
- * Copyright (c) 2016-2019 人人开源 All rights reserved.
- *
- * https://www.renren.io
- *
- * 版权所有，侵权必究！
- */
-
+//
 package io.renren.common.exception;
 
 /**
  * 自定义异常
  *
- * @author Mark sunlightcs@gmail.com
+ * @author timelocked
  */
 public class RRException extends RuntimeException {
 	private static final long serialVersionUID = 1L;
@@ -55,6 +48,12 @@ public class RRException extends RuntimeException {
 
 	public void setCode(int code) {
 		this.code = code;
+	}
+
+	public  void  getCode(int codee){
+		System.out.println(codee);
+
+
 	}
 	
 	

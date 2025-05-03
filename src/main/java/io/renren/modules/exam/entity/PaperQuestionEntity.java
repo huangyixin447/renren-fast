@@ -10,8 +10,8 @@ import lombok.Data;
 /**
  * 试卷与题目关联表
  * 
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-08 19:05:12
  */
 @Data

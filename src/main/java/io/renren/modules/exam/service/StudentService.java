@@ -9,8 +9,8 @@ import java.util.Map;
 /**
  * 学生信息表
  *
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-06 22:13:25
  */
 public interface StudentService extends IService<StudentEntity> {

@@ -13,8 +13,8 @@ import lombok.Data;
 /**
  * 公告
  *
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-24 15:47:26
  */
 @Data

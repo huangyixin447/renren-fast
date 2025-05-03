@@ -3,7 +3,7 @@ package io.renren.modules.exam.entity.vo;
 import lombok.Data;
 
 /**
- * @Author 3fes
+ *  @author timelocked
  * @Date 2023/1/20 11:19
  **/
 

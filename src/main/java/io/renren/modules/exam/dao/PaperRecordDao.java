@@ -17,8 +17,8 @@ import java.util.List;
 /**
  * 考试记录 试卷记录
  *
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-17 15:25:52
  */
 @Mapper

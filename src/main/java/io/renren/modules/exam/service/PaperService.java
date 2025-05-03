@@ -16,8 +16,8 @@ import java.util.Map;
 /**
  * 试卷
  *
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-06 22:13:25
  */
 public interface PaperService extends IService<PaperEntity> {

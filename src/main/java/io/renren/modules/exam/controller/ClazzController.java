@@ -18,8 +18,8 @@ import io.renren.common.utils.R;
 /**
  * 年级班级
  *
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-07 12:40:37
  */
 @RestController

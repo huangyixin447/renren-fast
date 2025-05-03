@@ -18,7 +18,7 @@ import java.util.stream.Stream;
 /**
  * 常量
  *
- * @author Mark sunlightcs@gmail.com
+ * @author timelocked
  */
 public class Constant {
     /**

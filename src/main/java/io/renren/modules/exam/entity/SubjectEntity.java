@@ -12,8 +12,8 @@ import lombok.Data;
 /**
  * 课程科目表
  *
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-06 22:13:25
  */
 @Data

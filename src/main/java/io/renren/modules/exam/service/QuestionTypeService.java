@@ -9,8 +9,8 @@ import java.util.Map;
 /**
  * 题目类型
  *
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-06 22:13:25
  */
 public interface QuestionTypeService extends IService<QuestionTypeEntity> {

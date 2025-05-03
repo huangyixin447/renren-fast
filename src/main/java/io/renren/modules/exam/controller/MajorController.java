@@ -17,8 +17,8 @@ import io.renren.common.utils.R;
 /**
  * 专业
  *
- * @author lijun
- * @email 1420794684@qq.com
+ * @author timelocked
+ * @email huanyixin447@gmail.com
  * @date 2023-01-06 22:27:32
  */
 @RestController

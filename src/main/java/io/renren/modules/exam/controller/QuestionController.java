@@ -17,9 +17,7 @@ import io.renren.common.utils.R;
 /**
  * 题目
  *
- * @author lijun
- * @email 1420794684@qq.com
- * @date 2023-01-06 22:27:32
+
  */
 @RestController
 @RequestMapping("/exam/question")
